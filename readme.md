@@ -4,4 +4,4 @@
 
 
 
-![DataCollector](https://github.com/jake-ilsoo-kim/DataCollector_from_CNCMachines/DataCollector.png)
+![DataCollector](https://github.com/jake-ilsoo-kim/DataCollector_from_CNCMachines/blob/main/DataCollector.png)
